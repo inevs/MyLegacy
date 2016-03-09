@@ -1,8 +1,6 @@
-# Clone repo into own Project
+# MyLegacy
 
-```
-git clone <repo> my-project
-```
+Some Legacy Code to refactor
 
 # Working with the code
 
